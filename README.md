@@ -1,0 +1,2 @@
+# miniminds
+server for miniminds
